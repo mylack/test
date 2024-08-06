@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-source-han-sans-sc: "Source Han Sans SC";
+  --font-pingfang-sc: "PingFang SC";
+  --font-inter: Inter;
+  --font-sf-pro-display: "SF Pro Display";
+
+  /* font sizes */
+  --font-size-3xs: 10px;
+  --font-size-xs: 12px;
+  --font-size-mini: 15px;
+  --font-size-smi: 13px;
+
+  /* Colors */
+  --fontcolor-light-90: rgba(0, 0, 0, 0.9);
+  --fontcolor-light-15: rgba(0, 0, 0, 0.15);
+  --fontcolor-light-10: rgba(0, 0, 0, 0.1);
+  --color-gray-100: rgba(255, 255, 255, 0);
+  --color-dimgray-100: #666;
+  --color-dimgray-200: rgba(102, 102, 102, 0.9);
+  --color1: #07c160;
+  --all-white: #fff;
+  --all-dark: #000;
+  --color-darkslategray: #333;
+  --all-white-93: #ededed;
+
+  /* Gaps */
+  --gap-11xs: 2px;
+
+  /* Paddings */
+  --padding-xs: 12px;
+  --padding-7xs: 6px;
+  --padding-3xs: 10px;
+
+  /* Border radiuses */
+  --br-81xl: 100px;
+}
